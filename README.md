@@ -35,7 +35,9 @@
 <br><br>
 
 # 주차 별 진행사항
-<summary>
+
+<details>
+    <summary>자세히</summary>
 
 ### 2주차
 
@@ -106,9 +108,9 @@
   1) 메뉴씬 오류 기능 수정
   2) 메테리얼 수정
 
-</summary>
-
 <br><br>
+
+</details>
 
 # 주차 별 오류사항
 
