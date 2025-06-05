@@ -10,6 +10,9 @@
 
 # 소개
 
+<details>
+    <summary>자세히</summary>
+
 ### 장르
 
 로그라이크 슈팅 리듬 게임
@@ -21,7 +24,12 @@
 
 <br><br>
 
+</details>
+
 # 게임 흐름도 & 플레이 매커니즘
+
+<details>
+    <summary>자세히</summary>
 
 ### 흐름도
   <img src="./흐름도.png">
@@ -31,6 +39,8 @@
   단 박자가 안 맞을 시 콤보카운트가 줄어든다. <br>
 
 <br><br>
+
+</details>
 
 # 주차 별 진행사항
 
